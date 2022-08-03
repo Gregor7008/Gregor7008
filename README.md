@@ -42,11 +42,10 @@
 </p>
 
 **📊 Statistics**
-<p align="left">
+
 ![Gregor7008's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gregor7008&show_icons=true&count_private=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gregor7008&layout=compact)
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gregor7008)
-</p>
 
 <details>
 	<summary><b>❤️ Join me!</b></summary>
