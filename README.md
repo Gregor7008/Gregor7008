@@ -45,7 +45,7 @@
 
 ![Metrics Stats](https://raw.githubusercontent.com/Gregor7008/Gregor7008/main/github-metrics.svg)
 
-![Gregor7008's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gregor7008&show_icons=true&count_private=true)
+![Gregor7008's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gregor7008&show_icons=true&count_private=true&bg_color=66000000&hide_border=true&text_color=909090)
 
 <details>
 	<summary><b>❤️ Join me!</b></summary><br>
