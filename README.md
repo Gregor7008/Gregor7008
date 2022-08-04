@@ -43,11 +43,9 @@
 
 **📊 Statistics**
 
+![Metrics Stats](https://raw.githubusercontent.com/Gregor7008/Gregor7008/main/github-metrics.svg)
+
 ![Gregor7008's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gregor7008&show_icons=true&count_private=true)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gregor7008&layout=compact)
-
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gregor7008)
 
 <details>
 	<summary><b>❤️ Join me!</b></summary><br>
@@ -86,6 +84,8 @@
 		<a href="https://github.com/anuraghazra/github-readme-stats">ReadMe Statistics</a> by <a href="https://github.com/anuraghazra">@anuraghazra</a>
 		<br>
 		<a href="https://github.com/gautamkrishnar/blog-post-workflow">Blog Post Workflow</a> by <a href="https://github.com/gautamkrishnar">@gautamkrishnar</a>
+		<br>
+		<a href="https://github.com/lowlighter/metrics">Metrics</a> by <a href="https://github.com/lowlighter">@lowlighter</a>
 		<br>
 		Shields by <a href="https://shields.io">shields.io</a>
 	</p>
