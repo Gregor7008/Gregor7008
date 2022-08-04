@@ -47,7 +47,7 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gregor7008&layout=compact)
 
-![Wakatime Stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Gregor7008)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gregor7008)
 
 <details>
 	<summary><b>❤️ Join me!</b></summary><br>
