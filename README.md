@@ -5,7 +5,7 @@
 - ♨️Frontend Java & C++ developer
 - 📚 Currently learning Phython & HTML
 - 💡 Actively working on [Butler George](https://github.com/Gregor7008/Butler-George) 
-- 🚒 Voluntary fire fighter
+- 🚒 Volunteer fire fighter
 - 🎹 Passionated musician
 - 🎮 Game enthusiast
 - 📫 Available on [Discord](https://www.discordapp.com/users/475974084937646080) or [@Gregor7008](https://twitter.com/gregor7008)
