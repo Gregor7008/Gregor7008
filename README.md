@@ -41,10 +41,8 @@
 <img src="https://raw.githubusercontent.com/Gregor7008/Gregor7008/main/resources/graphics/languages/Python.svg" alt="Python" align="center" height="35" width="40"/>
 </p>
 
-**📊 Statistics**
-
-![Metrics Stats](https://raw.githubusercontent.com/Gregor7008/Gregor7008/main/github-metrics.svg)
-
+**📊 Statistics** <br>
+![Metrics Stats](https://raw.githubusercontent.com/Gregor7008/Gregor7008/main/resources/actions/gregor7008-metrics.svg) <br>
 ![Gregor7008's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gregor7008&show_icons=true&count_private=true&bg_color=66000000&hide_border=true&text_color=909090)
 
 <details>
