@@ -16,7 +16,8 @@ jobs:
           plugin_isocalendar: yes
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          plugin_wakatime_days: 7
+          plugin_wakatime_user: Gregor7008
+          plugin_wakatime_repositories_visibility: all
           plugin_lines: yes
           filename: resources/actions/gregor7008-metrics.svg
   butler-george-stats:
