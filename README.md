@@ -125,4 +125,4 @@ Thank you all so much ❤️!
 </p>
 </details>
 
-©️ [Gregor7008](https://github.com/Gregor7008) - 03.08.2022
+©️ [Gregor7008](https://github.com/Gregor7008) - 2022
