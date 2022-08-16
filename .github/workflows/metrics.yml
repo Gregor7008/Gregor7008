@@ -35,7 +35,6 @@ jobs:
           plugin_projects: yes
           plugin_projects_repositories: Gregor7008/Butler-George/projects/2
           plugin_licenses: yes
-          plugin_licenses_setup: npm install -g npm@latest && npm ci
           plugin_licenses_legal: no
           plugin_licenses_ratio: yes
           filename: resources/actions/butler-george-metrics.svg
