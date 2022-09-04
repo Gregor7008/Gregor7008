@@ -54,13 +54,6 @@
  		The good thing is: We don't require any prior knowledge of Java or <a href="https://github.com/DV8FromTheWorld/JDA">JDA</a>. Of course it'd be better and more time efficient, if you do have some - or get some prior to applying - but if not, we'll teach you Java from the ground up. For this we only require the willingness to learn new things and to understand what we will be trying to teach you.<br>
  		In case you want to join us now, please contact me using the options above!
 	</p>
-	<p style="text-align:left;"><u><b>Learning Java</b></u>
-    	<span style="float:right;"><a href="https://github.com/Gregor7008/Learning-Java">@GitHub</a></span>
-		<br>
-		This is a just recently started project for teaching Java to interested people. For now, I'm the only one working on it, but I'd love to be joined by other mildly experienced Java developers, so we can create a learning platform for Java.<br>
-		There are no goals defined yet: Whether it should be a browser application or, as it is at the moment, a simple project for verbal teaching - the options are limitless and I'm excited to work on it.<br>
-		Let's show the world the power of programming!
-	</p>
 </details>
 <details>
 	<summary><b>🔕 Miscellaneous</b></summary>
