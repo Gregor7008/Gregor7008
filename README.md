@@ -56,15 +56,15 @@ The good thing is: We don't require any prior knowledge of Java or <a href="http
 In case you want to join us now, please contact me using the options above!
 
 ### ❤️ Note of Thanks
-- <b><u>My Community</u></b>
+- <ins>**My Community**
 
 	<a href="https://discord.gg/6FBK9d2dDZ"><img src="https://github.com/Gregor7008/Gregor7008/blob/main/resources/graphics/widgets/Fun%20&%20Games%20Widget%20Small.png?raw=true" alt="Discord server invite" align="center" height="60"/></a>
-- <b><u>Communities to check out</u></b>
+- <ins>**Communities to check out**
   
 	<a href="https://discord.gg/jda"><img src="https://github.com/Gregor7008/Gregor7008/blob/main/resources/graphics/widgets/JDA%20Widget%20Small.png?raw=true" alt="JDA Discord" align="center" height="60"/></a>
 	<a href="https://discord.gg/yung"><img src="https://github.com/Gregor7008/Gregor7008/blob/main/resources/graphics/widgets/Yung%20Gang%20Widget%20Small.png?raw=true" alt="Yung Gang Discord" align="center" height="60"/></a>
 
-- <b><u>Thanks</u></b>
+- <ins>**Thanks**
 	- My former computer science teacher, who basically made me start this whole stuff</li>
 	- The communities mentioned above, which inspired and helped me out so many times already, especially...
 		- <a href="https://discordapp.com/users/155423503967846400/">@YUNGNICKYOUNG</a> from the <a href="https://discord.gg/yung">YUNG GANG</a> Discord server <br>
@@ -83,7 +83,7 @@ In case you want to join us now, please contact me using the options above!
 	- All the people that support me in my freetime, with all my hobbies making it difficult to hang out with me and spend time together
 	- And you, for reading this
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b> Thank you all so much ❤️!</b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Thank you all so much ❤️!</b>
 
 ## 🧭 Credits
 <a href="https://github.com/anuraghazra/github-readme-stats">ReadMe Statistics</a> by <a href="https://github.com/anuraghazra">@anuraghazra</a>
