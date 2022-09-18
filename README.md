@@ -49,22 +49,22 @@
 
 ## 🔔 Miscellaneous
 ### 🎉 Join me!
-- <b><u>Butler George</u></b>
+- <ins>**Butler George**</ins>
   <br>
 We're currently searching for people to join us on [**Butler George**](https://github.com/Gregor7008/Butler-George), a multi purpose <a href="https://discord.com">Discord</a> bot with relatively high goals, as we want to replace every bot ever needed to run a public server. As the current bar is high, we are taking it as a challenge, even though we don't intend to push the project to a level, where you can consider the bot "famous" or "commonly used".<br>
 The good thing is: We don't require any prior knowledge of Java or <a href="https://github.com/DV8FromTheWorld/JDA">JDA</a>. Of course it'd be better and more time efficient, if you do have some - or get some prior to applying - but if not, we'll teach you Java from the ground up. For this we only require the willingness to learn new things and to understand what we will be trying to teach you.<br>
 In case you want to join us now, please contact me using the options above!
 
 ### ❤️ Note of Thanks
-- <ins>**My Community**
+- <ins>**My Community**</ins>
 
 	<a href="https://discord.gg/6FBK9d2dDZ"><img src="https://github.com/Gregor7008/Gregor7008/blob/main/resources/graphics/widgets/Fun%20&%20Games%20Widget%20Small.png?raw=true" alt="Discord server invite" align="center" height="60"/></a>
-- <ins>**Communities to check out**
+- <ins>**Communities to check out**</ins>
   
 	<a href="https://discord.gg/jda"><img src="https://github.com/Gregor7008/Gregor7008/blob/main/resources/graphics/widgets/JDA%20Widget%20Small.png?raw=true" alt="JDA Discord" align="center" height="60"/></a>
 	<a href="https://discord.gg/yung"><img src="https://github.com/Gregor7008/Gregor7008/blob/main/resources/graphics/widgets/Yung%20Gang%20Widget%20Small.png?raw=true" alt="Yung Gang Discord" align="center" height="60"/></a>
 
-- <ins>**Thanks**
+- <ins>**Thanks**</ins>
 	- My former computer science teacher, who basically made me start this whole stuff</li>
 	- The communities mentioned above, which inspired and helped me out so many times already, especially...
 		- <a href="https://discordapp.com/users/155423503967846400/">@YUNGNICKYOUNG</a> from the <a href="https://discord.gg/yung">YUNG GANG</a> Discord server <br>
