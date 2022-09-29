@@ -2,7 +2,7 @@
 <h3><p align="center">🎶~ Always look on the bright side of life  ~ 🎶</p></h3>
  
 ## ✨ Overview
-- ♨️Frontend Java & C++ developer
+- ♨️ Frontend Java & C++ developer
 - 📚 Currently learning Phython & HTML
 - 💡 Actively working on [Butler George](https://github.com/Gregor7008/Butler-George) 
 - 🚒 Volunteer fire fighter
