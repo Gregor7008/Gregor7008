@@ -11,7 +11,7 @@ jobs:
       - uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          config_timezone: Europe/Paris
+          config_timezone: Europe/Berlin
           base: header
           plugin_isocalendar: yes
           plugin_wakatime: yes
