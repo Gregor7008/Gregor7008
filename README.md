@@ -4,7 +4,6 @@
 ## ✨ Overview
 - ♨️ Frontend Java & C++ developer
 - 📚 Currently learning Phython & HTML
-- 💡 Actively working on [Butler George](https://github.com/Gregor7008/Butler-George) 
 - 🚒 Volunteer fire fighter
 - 🎹 Passionated musician
 - 🎮 Game enthusiast
@@ -48,17 +47,13 @@
 ![Gregor7008's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gregor7008&show_icons=true&count_private=true&bg_color=66000000&hide_border=true&text_color=909090)
 
 ## 🔔 Miscellaneous
-### 🎉 Join me!
+### 🎉 Final Notes
 - <ins>**Butler George**</ins>
   <br>
-We're currently searching for people to join us on [**Butler George**](https://github.com/Gregor7008/Butler-George), a multi purpose <a href="https://discord.com">Discord</a> bot with relatively high goals, as we want to replace every bot ever needed to run a public server. As the current bar is high, we are taking it as a challenge, even though we don't intend to push the project to a level, where you can consider the bot "famous" or "commonly used".<br>
-The good thing is: We don't require any prior knowledge of Java or <a href="https://github.com/DV8FromTheWorld/JDA">JDA</a>. Of course it'd be better and more time efficient, if you do have some - or get some prior to applying - but if not, we'll teach you Java from the ground up. For this we only require the willingness to learn new things and to understand what we will be trying to teach you.<br>
-In case you want to join us now, please contact me using the options above!
+A project has come to an end.<br>After 4 years of ambitious development and a very exciting testing phase, I unfortunately cannot maintain and update this project anymore. It has been a great adventure and an awesome time.<br>
+Goodbye!
 
 ### ❤️ Note of Thanks
-- <ins>**My Community**</ins>
-
-	<a href="https://discord.gg/6FBK9d2dDZ"><img src="https://github.com/Gregor7008/Gregor7008/blob/main/resources/graphics/widgets/Fun%20&%20Games%20Widget%20Small.png?raw=true" alt="Discord server invite" align="center" height="60"/></a>
 - <ins>**Communities to check out**</ins>
   
 	<a href="https://discord.gg/jda"><img src="https://github.com/Gregor7008/Gregor7008/blob/main/resources/graphics/widgets/JDA%20Widget%20Small.png?raw=true" alt="JDA Discord" align="center" height="60"/></a>
@@ -73,15 +68,10 @@ In case you want to join us now, please contact me using the options above!
 			<a href="https://www.youtube.com/yungnickyoung" target="blank"><img src="https://raw.githubusercontent.com/Gregor7008/Gregor7008/main/resources/graphics/socials/YouTube.svg" alt="YouTube" align="center" height="20" width="30"/></a>
 		- <a href="https://discordapp.com/users/222046562543468545/">@freya02</a> from the <a href="https://discord.gg/jda">JDA</a> Discord server <br>
 			<a href="https://github.com/freya022"><img src="https://raw.githubusercontent.com/Gregor7008/Gregor7008/main/resources/graphics/services/GitHub.svg" alt="GitHub" align="center" height="20" width="25"/></a>
-		- <a href="https://discordapp.com/users/631176108372656148">@1887jonas</a>, developer of the Discord bot <a href="https://nevar.eu">Nevar</a><br>
-			<a href="https://github.com/Tintenpatron"><img src="https://raw.githubusercontent.com/Gregor7008/Gregor7008/main/resources/graphics/services/GitHub.svg" alt="GitHub" align="center" height="20" width="25"/></a>
-			<a href="https://twitter.com/1887jonas" target="blank"><img src="https://raw.githubusercontent.com/Gregor7008/Gregor7008/main/resources/graphics/socials/Twitter.svg" alt="Twitter" align="center" height="20" width="25"/></a>
-			<a href="https://nevar.eu" target="blank"><img src="https://raw.githubusercontent.com/Gregor7008/Gregor7008/main/resources/graphics/socials/Website%20(black).svg" alt="Website" align="center" height="20" width="20"/></a>
-		- <a href="https://discordapp.com/users/216382288378724352">@ZiNc</a>, developer of the famous Discord bot <a href="https://https://elementalbot.com">Elemental</a><br>
-			<a href="https://github.com/iAmZiNc"><img src="https://raw.githubusercontent.com/Gregor7008/Gregor7008/main/resources/graphics/services/GitHub.svg" alt="GitHub" align="center" height="20" width="25"/></a>
+		- <a href="https://discordapp.com/users/216382288378724352">@ZiNc</a>, developer of the famous Discord bot <a href="https://elementalbot.com">Elemental</a><br>
 			<a href="https://steamcommunity.com/id/iam_zinc/"><img src="https://raw.githubusercontent.com/Gregor7008/Gregor7008/main/resources/graphics/socials/Steam.svg" alt="Steam" align="center" height="20" width="25"/></a>
 	- All the people that support me in my freetime, with all my hobbies making it difficult to hang out with me and spend time together
-	- And you, for reading this
+	- and you, for reading this...
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Thank you all so much ❤️!</b>
 
@@ -94,4 +84,4 @@ In case you want to join us now, please contact me using the options above!
 <br>
 Shields by <a href="https://shields.io">shields.io</a>
 
-©️ [Gregor7008](https://github.com/Gregor7008) - 2022
+©️ [Gregor7008](https://github.com/Gregor7008) - 2026
