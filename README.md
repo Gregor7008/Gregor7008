@@ -44,7 +44,7 @@
 
 ## 📊 Statistics
 ![Metrics Stats](https://raw.githubusercontent.com/Gregor7008/Gregor7008/main/resources/actions/gregor7008-metrics.svg) <br>
-![Gregor7008's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gregor7008&show_icons=true&count_private=true&bg_color=66000000&hide_border=true&text_color=909090)
+![Gregor7008's GitHub Stats](https://github-stats-extended.vercel.app/api?username=gregor7008&show_icons=true&count_private=true&bg_color=66000000&hide_border=true&text_color=909090)
 
 ## 🔔 Miscellaneous
 ### 🎉 Final Notes
@@ -76,9 +76,7 @@ Goodbye!
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Thank you all so much ❤️!</b>
 
 ## 🧭 Credits
-<a href="https://github.com/anuraghazra/github-readme-stats">ReadMe Statistics</a> by <a href="https://github.com/anuraghazra">@anuraghazra</a>
-<br>
-<a href="https://github.com/gautamkrishnar/blog-post-workflow">Blog Post Workflow</a> by <a href="https://github.com/gautamkrishnar">@gautamkrishnar</a>
+<a href="https://github.com/stats-organization/github-stats-extended">ReadMe Statistics</a> by <a href="https://github.com/anuraghazra">@anuraghazra</a>
 <br>
 <a href="https://github.com/lowlighter/metrics">Metrics</a> by <a href="https://github.com/lowlighter">@lowlighter</a>
 <br>
